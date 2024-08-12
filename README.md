@@ -2,9 +2,7 @@
 
 Este projeto demonstra a rotação de itens em um layout circular, distribuindo-os uniformemente em um círculo com base na sua posição. A rotação é calculada utilizando a seguinte fórmula:
 
-\[
-\text{Rotação em graus} = (\text{Posição} - 1) \times \left(\frac{360^\circ}{\text{Quantidade de itens}}\right)
-\]
+
 
 ## Exemplo de Cálculo
 
