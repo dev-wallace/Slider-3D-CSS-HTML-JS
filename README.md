@@ -1,6 +1,7 @@
 # Rotação de Itens em 360 Graus
 
-Este projeto demonstra a rotação de itens em um layout circular, distribuindo-os uniformemente em um círculo com base na sua posição. A rotação é calculada utilizando a seguinte fórmula:
+Este projeto demonstra a rotação de itens em um layout circular, distribuindo-os uniformemente em um círculo com base na sua posição. A rotação é calculada utilizando a seguinte fórmula: 
+ (posição -1) * (360deg /qantidade )
 
 
 
