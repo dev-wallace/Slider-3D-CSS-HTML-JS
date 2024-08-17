@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Slider 3D** é um projeto que implementa um slider rotativo 3D usando HTML, CSS. O slider apresenta imagens em uma rotação 3D contínua, proporcionando um efeito visual atraente. Este projeto é ideal para exibir uma galeria de imagens ou criar um efeito visual impactante em um site.
+O **Slider 3D** é um projeto que implementa um slider rotativo 3D usando HTML e CSS. O slider apresenta imagens em uma rotação 3D contínua, proporcionando um efeito visual atraente. Este projeto é ideal para exibir uma galeria de imagens ou criar um efeito visual impactante em um site.
 
 ![Exemplo de Slider 3D](https://github.com/user-attachments/assets/1f6050c7-c8b0-4253-a9e2-5d97084ca4f5)
 
